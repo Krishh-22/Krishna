@@ -1,3 +1,4 @@
+![logo](https://github.com/Krishh-22/Krishna/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
